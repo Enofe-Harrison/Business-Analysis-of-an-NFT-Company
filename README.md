@@ -1,1 +1,1 @@
-# Courtyard-Business-Analysis
+The project aimed to recommend solutions to the company’s product sales in the NFT market. Using the datasets provided by the client, a series of exploratory data analyses and data visualization was done on the company and the NFT market, and a PowerPoint report was generated that contains the business analysis and  recommendations that the management may want to consider during the decision-making process.
